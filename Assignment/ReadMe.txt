@@ -1,1 +1,1 @@
-Assignment 4 solution
+Solutions of assignments
